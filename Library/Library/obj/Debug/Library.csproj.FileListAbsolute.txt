@@ -1,0 +1,17 @@
+D:\Current Classes\C#\Chapter 13\c13p3\Library\Library\bin\Debug\Library.exe.config
+D:\Old Classes\C#\practice\Library\Library\bin\Debug\Library.exe.config
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\AddBookWindow.g.cs
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\MainWindow.g.cs
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\App.g.cs
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library_MarkupCompile.cache
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library_MarkupCompile.lref
+D:\Old Classes\C#\practice\Library\Library\bin\Debug\Library.exe
+D:\Old Classes\C#\practice\Library\Library\bin\Debug\Library.pdb
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\AddBookWindow.baml
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\MainWindow.baml
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.g.resources
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.Properties.Resources.resources
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.csproj.GenerateResource.Cache
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.exe
+D:\Old Classes\C#\practice\Library\Library\obj\Debug\Library.pdb
